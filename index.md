@@ -6,16 +6,11 @@ The goal of this project is not only to document answers, but also to track how 
 
 ## Topics
 
-- Git & GitHub
-- Python Programming
-- Linux & Command Line
-- Algorithms
-- Machine Learning
-- Robotics
-- Paper Reading
+- 具身智能数据采集
+
 
 ## Problem List
 
-- Problem 001: What is the difference between Git and GitHub?
-- Problem 002: How should I manage Python environments?
-- Problem 003: How should I read a machine learning paper?
+- Problem 001: metacam 
+- Problem 002: meta aria
+- Problem 003: 采集出来的数据的类型以及对应的作用 
